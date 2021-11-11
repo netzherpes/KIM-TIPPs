@@ -3,7 +3,7 @@
 ---
 This is just a collection of tipps:
 
-How to onefile Papertape files?
+**How to onefile Papertape files?**
 
 Imagine you have a prg to be loaded to different playes and the assembler produced several papertape files.
 You can load them either one after the other or "onefile" them:
