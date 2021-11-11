@@ -1,6 +1,6 @@
 # KIM-1 tipps
 
---
+---
 This is just a collection of tipps:
 
 How to onefile Papertape files?
@@ -16,4 +16,4 @@ You can also change some bytes in the code with the -ignore-checksum switch
 
 
 
-[1] http://srecord.sourceforge.net/
+[1]: http://srecord.sourceforge.net/
